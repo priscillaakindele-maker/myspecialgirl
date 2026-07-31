@@ -1,0 +1,6 @@
+{
+  "name": "Girlfriend's Day Message",
+  "description": "A heartfelt single-page Girlfriend's Day celebration with three photo memories and a custom message for her from him.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
